@@ -1,6 +1,6 @@
 # essentialsTP
 <p>EssentialsTP by ServerKart_Rod</p>
-<p></p>
+<br />
 <p>A teleportation suite for pocketmine servers.</p>
 <p>Current features:</p>
 <p>home<br>
